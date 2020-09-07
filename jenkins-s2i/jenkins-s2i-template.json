@@ -352,7 +352,7 @@
       "description": "Git Repository URL",
       "displayName": "Git Repository URL",
       "name": "GIT_URL",
-      "value": "https://github.com/OpenShiftInAction/chapter6",
+      "value": "https://github.com/tdhbui/chapter6",
       "required": true
     },
     {

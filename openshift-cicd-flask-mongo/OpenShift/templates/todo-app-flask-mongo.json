@@ -42,7 +42,7 @@
       "description": "Git source URI for application",
       "displayName": "Git source repository",
       "name": "GIT_URI",
-      "value": "https://github.com/OpenShiftInAction/chapter6",
+      "value": "https://github.com/tdhbui/chapter6",
       "required": true
     },
     {
